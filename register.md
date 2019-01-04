@@ -2,7 +2,7 @@
 
 Want to be the first to know when we launch near you?
 
-Let us know your email address and location and we'll send you an email when we launch.
+Let us know your email address and location and we'll send you an email when we do!
 
 You can (and should 😎) also opt-in to receive regular news and announcements from VLNTR.
 
