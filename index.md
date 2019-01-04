@@ -10,7 +10,7 @@ Sound like fun? We think so.
 
 We bring together not-for-profits and small teams of VLNTRs to work on _Missions_. A Mission objectively defined, and time limited to 30 days. A team is formed with one VLNTR from each of our Research (#RE), Product (#PR), Development (#DE) and Governance (#GO) groups.
 
-<img src="https://github.com/VLNTR/vlntr.org/raw/master/static/images/model.png" alt="VLNTR How we work" width="100%">
+<a href='https://github.com/VLNTR/vlntr.org/raw/master/static/images/model.png'><img src="https://github.com/VLNTR/vlntr.org/raw/master/static/images/model.png" alt="VLNTR How we work" width="100%" /></a>
 
 ## Where to next
 
